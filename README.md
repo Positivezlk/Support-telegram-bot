@@ -103,5 +103,5 @@ CREATE TABLE user_questions (
 
 ## Разработчики
 
-- **Разработчик 1**: [Positivezlk](https://github.com/Positivezlk)
-- **Разработчик 2**: Название/контакт
+- **Разработчик 1**: [Positivezlk](https://github.com/Positivezlk), [Герасимов Кирилл](https://t.me/quttei)
+- **Разработчик 2**: [Романенко Никита](https://t.me/ArchangelGreenWoods)
